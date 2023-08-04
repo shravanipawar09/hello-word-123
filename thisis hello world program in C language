@@ -1,1 +1,5 @@
-this is writting in c language program
+#include<stdio.h>
+void main()
+{
+printf(" hello world");
+}
